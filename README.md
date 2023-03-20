@@ -7,6 +7,6 @@
 <br />
 🚀  **Task 1 -LANDING PAGE** 👇
 <br>
-🔗 Link - https://github.com/Raj8658/OIBSIP---Task-1.git
+🔗 Link - https://github.com/Shaikh-khaja/OIBSIP---Task-1.git
 <br />
 
